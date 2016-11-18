@@ -1,1 +1,14 @@
-main.csss
+.wallpaper{
+	background-image: url(../images/city-lights-bokeh.jpg);
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;	
+}
+.logo{
+	width: 20%;
+	height: 20%;
+}
+.logIn{
+	margin-right:1%;
+}
+
